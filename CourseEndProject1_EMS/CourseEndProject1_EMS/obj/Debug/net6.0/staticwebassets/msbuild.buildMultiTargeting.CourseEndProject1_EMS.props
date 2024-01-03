@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CourseEndProject1_EMS.props" />
+</Project>
